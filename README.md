@@ -23,5 +23,6 @@
    - go to frontend: cd {YOUR_DIRECTORY}/interview_nexlaw/frontend/
    - run this: npm install
    - run this: npm run dev
+   - open your browser then run this http://localhost:5173/
 
 ## NOTE (if your backend port is not 8000, please change VITE_API_URL in .env frontend with your backend port)
